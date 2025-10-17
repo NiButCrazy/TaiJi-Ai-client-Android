@@ -1,9 +1,11 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+    <style name="LaunchScreenTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+        <!--        <item name="android:windowBackground">@color/launch_background</item>-->
+        <item name="android:windowBackground">@drawable/screen</item>
     </style>
 
 </resources>

@@ -1,0 +1,4 @@
+<resources>
+    <color name="launch_background">#F1F5F9</color> <!-- 浅色模式 -->
+    <color name="splash_bg">#E95555</color>
+</resources>
